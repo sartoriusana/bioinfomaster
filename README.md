@@ -1,7 +1,7 @@
 # Welcome to my first git repository
 
-#Author information
+## Author information
 Ana Sartorius
 
-#Project description
+## Project description
 Just a repository to learn about git
